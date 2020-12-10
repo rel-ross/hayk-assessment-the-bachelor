@@ -77,4 +77,3 @@ denominator=0
   end
   average=(numerator/denominator).round()
 end
-
